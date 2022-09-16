@@ -67,6 +67,7 @@ export const App = () => {
           page={newPage}
           limit={limit}
           setNewPage={setNewPage}
+          newsByCategory={newsByCategory}
         />
       </div>
     </>
