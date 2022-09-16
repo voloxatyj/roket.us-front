@@ -43,7 +43,7 @@ export const NewsItem = ({
   };
 
   return (
-    <Card sx={{ maxWidth: 345 }}>
+    <Card sx={{ maxWidth: 345 }} className='news-container'>
       <CardHeader title={title} subheader={date} />
       <CardMedia component='img' height='194' image={image} alt='Paella dish' />
       <CardContent>

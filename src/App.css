@@ -10,3 +10,8 @@
 	justify-content: center;
 	margin: 3rem;
 }
+
+.news-container {
+	border: solid 1px #e7e7fd;
+  margin: 5px;
+}
