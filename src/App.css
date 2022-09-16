@@ -1,0 +1,12 @@
+.container {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 3rem;
+}
+
+.pagination {
+	display: flex;
+	min-width: 100%;
+	justify-content: center;
+	margin: 3rem;
+}
